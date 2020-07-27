@@ -1,0 +1,422 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-83:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b8b63dc9a8a637892d613011f152cec5\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f1bf003b7bd17fcf2c3148701e0bc47c\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\409420435f6981ce4ac4dc5e4035371c\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7d55f9f8820a3655c92208920db919c9\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\18969ffa85c62078ce0b2a79ebdf3788\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f0cbccbc110973d2056a4c9abc0105c9\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\063da9987c1562dea3b91a612254d790\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\34e5dcc20b9ccf9f1112b7c1b40c7ea5\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.exifinterface.exifinterface-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\49626b737b9c57d9ae570d5863529dfe\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b8aca9df0587c808d0bf39f8348a05a3\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\67ab880f783c0ab7494e4fa4fc2d3c48\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5b6c4e1fcf872a0630c663c90123b0b6\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\ce794182507a6aa736d20342bc348554\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\d11b5a9b3bcbf0f9392573c03da28ca2\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b916405580352ccf34480e353c3a5e8f\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f7ec6e5ffe7988f46dbd9535815afaf1\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7735d88fa7e74e44212c0c8aff0aadd9\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\847debc6ea93baa2c109118e70731af4\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\59eedd6a19d33a060f6cb47ee7720c48\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\8e71d4e2b4627166f8cbd417fea5abac\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.media.media-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f2026b9e307fa243d7eb70f46170ff3f\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\87534df3be14e84c3bfee8e202b7d787\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\d4626ab4873bebf030b16e14dabf512d\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\c4098bfae2c6ec34d283500402a8c476\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\df6bc9b3692576fa6a6e112ddff8ea50\AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5616b1df014efe1402cc5e567f6328c9\AndroidManifest.xml:17:1-22:12
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:2:1-15:12
+MERGED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-74:12
+MERGED from [:unityLibrary:voxelbusters_utility_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\voxelbusters_utility_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-106
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:107-153
+	android:versionCode
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:154-194
+supports-screens
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:5-81:19
+MERGED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:5-81:19
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7d55f9f8820a3655c92208920db919c9\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7d55f9f8820a3655c92208920db919c9\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\df6bc9b3692576fa6a6e112ddff8ea50\AndroidManifest.xml:22:5-23:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\df6bc9b3692576fa6a6e112ddff8ea50\AndroidManifest.xml:22:5-23:19
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:3:2-9:16
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:3:2-9:16
+MERGED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:44:5-72:19
+MERGED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:44:5-72:19
+MERGED from [:unityLibrary:voxelbusters_utility_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\voxelbusters_utility_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:unityLibrary:voxelbusters_utility_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\voxelbusters_utility_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-12:19
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7d55f9f8820a3655c92208920db919c9\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b8b63dc9a8a637892d613011f152cec5\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b8b63dc9a8a637892d613011f152cec5\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f1bf003b7bd17fcf2c3148701e0bc47c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f1bf003b7bd17fcf2c3148701e0bc47c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\409420435f6981ce4ac4dc5e4035371c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\409420435f6981ce4ac4dc5e4035371c\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7d55f9f8820a3655c92208920db919c9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7d55f9f8820a3655c92208920db919c9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\18969ffa85c62078ce0b2a79ebdf3788\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\18969ffa85c62078ce0b2a79ebdf3788\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f0cbccbc110973d2056a4c9abc0105c9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f0cbccbc110973d2056a4c9abc0105c9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\063da9987c1562dea3b91a612254d790\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\063da9987c1562dea3b91a612254d790\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\34e5dcc20b9ccf9f1112b7c1b40c7ea5\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\34e5dcc20b9ccf9f1112b7c1b40c7ea5\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.exifinterface.exifinterface-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\49626b737b9c57d9ae570d5863529dfe\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.exifinterface.exifinterface-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\49626b737b9c57d9ae570d5863529dfe\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b8aca9df0587c808d0bf39f8348a05a3\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b8aca9df0587c808d0bf39f8348a05a3\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\67ab880f783c0ab7494e4fa4fc2d3c48\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\67ab880f783c0ab7494e4fa4fc2d3c48\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5b6c4e1fcf872a0630c663c90123b0b6\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5b6c4e1fcf872a0630c663c90123b0b6\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\ce794182507a6aa736d20342bc348554\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\ce794182507a6aa736d20342bc348554\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\d11b5a9b3bcbf0f9392573c03da28ca2\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\d11b5a9b3bcbf0f9392573c03da28ca2\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b916405580352ccf34480e353c3a5e8f\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\b916405580352ccf34480e353c3a5e8f\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f7ec6e5ffe7988f46dbd9535815afaf1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f7ec6e5ffe7988f46dbd9535815afaf1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7735d88fa7e74e44212c0c8aff0aadd9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\7735d88fa7e74e44212c0c8aff0aadd9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\847debc6ea93baa2c109118e70731af4\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\847debc6ea93baa2c109118e70731af4\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\59eedd6a19d33a060f6cb47ee7720c48\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\59eedd6a19d33a060f6cb47ee7720c48\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\8e71d4e2b4627166f8cbd417fea5abac\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\8e71d4e2b4627166f8cbd417fea5abac\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.media.media-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f2026b9e307fa243d7eb70f46170ff3f\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.media.media-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\f2026b9e307fa243d7eb70f46170ff3f\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\87534df3be14e84c3bfee8e202b7d787\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\87534df3be14e84c3bfee8e202b7d787\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\d4626ab4873bebf030b16e14dabf512d\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\d4626ab4873bebf030b16e14dabf512d\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\c4098bfae2c6ec34d283500402a8c476\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\c4098bfae2c6ec34d283500402a8c476\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\df6bc9b3692576fa6a6e112ddff8ea50\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\df6bc9b3692576fa6a6e112ddff8ea50\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5616b1df014efe1402cc5e567f6328c9\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5616b1df014efe1402cc5e567f6328c9\AndroidManifest.xml:20:5-44
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:11:2-43
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:11:2-43
+MERGED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary:voxelbusters_utility_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\voxelbusters_utility_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unityLibrary:voxelbusters_utility_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\voxelbusters_utility_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		MERGED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-67
+MERGED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:42:5-67
+MERGED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:42:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:22-83
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:22-62
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:12:2-82
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:12:2-82
+	android:required
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:9-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:5-81
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:14:5-81
+MERGED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:22-78
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:22-70
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:9-67:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-57
+	android:launchMode
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-60:40
+	android:value
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-63:40
+	android:value
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-71:33
+	android:value
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:9-74:36
+	android:value
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:9-77:50
+	android:value
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:78:9-80:68
+	android:value
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:80:13-65
+	android:name
+		ADDED from [:unityLibrary] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:79:13-42
+provider#com.yasirkula.unity.NativeCameraContentProvider
+ADDED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:4:3-8:42
+	android:grantUriPermissions
+		ADDED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:8:5-39
+	android:authorities
+		ADDED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:6:5-71
+	android:exported
+		ADDED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:7:5-29
+	android:name
+		ADDED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:5:5-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:13:2-77
+	android:name
+		ADDED from [:NativeCamera:] C:\Users\Usama\.gradle\caches\transforms-2\files-2.1\5326a440f726aa77d7499f02b1383030\AndroidManifest.xml:13:19-74
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-76
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-86
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-87
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:20:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:21:5-83
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:21:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-88
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:23:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-92
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:24:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:26:5-84
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:26:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-83
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:28:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-91
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:30:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:31:5-92
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:31:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:32:5-93
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:32:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:34:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:36:5-82
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:36:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:37:5-83
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:37:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:39:5-88
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:39:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:40:5-89
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:40:22-86
+activity#com.voxelbusters.nativeplugins.features.sharing.SharingActivity
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:47:9-49:60
+	android:theme
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-57
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-91
+activity#com.voxelbusters.nativeplugins.features.medialibrary.CameraActivity
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:51:9-53:60
+	android:theme
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-57
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-95
+activity#com.voxelbusters.nativeplugins.features.ui.UiActivity
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:55:9-57:60
+	android:theme
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-57
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-81
+activity#com.voxelbusters.nativeplugins.helpers.PermissionRequestActivity
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:60
+	android:theme
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-57
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-92
+provider#com.voxelbusters.nativeplugins.extensions.FileProviderExtended
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-71:20
+	android:grantUriPermissions
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
+	android:authorities
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-74
+	android:exported
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-90
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-70:68
+	android:resource
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:70:17-65
+	android:name
+		ADDED from [:unityLibrary:native_plugins_lib] D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\build\intermediates\library_manifest\release\AndroidManifest.xml:69:17-67

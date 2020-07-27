@@ -1,0 +1,523 @@
+/target:library
+/nowarn:0169
+/out:Temp/Assembly-CSharp-firstpass.dll
+/debug:portable
+/optimize+
+/nostdlib+
+/preferreduilang:en-US
+/langversion:latest
+/reference:Library/PlayerScriptAssemblies/UnityEngine.UI.dll
+/reference:Library/PlayerScriptAssemblies/Unity.Timeline.dll
+/reference:Library/PlayerScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+/reference:Library/PlayerScriptAssemblies/NativeCamera.Runtime.dll
+/reference:Library/PlayerScriptAssemblies/UnityEngine.SpatialTracking.dll
+/reference:Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll
+/reference:Library/PlayerScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AIModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ARModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AccessibilityModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AndroidJNIModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AnimationModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.AudioModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ClothModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CoreModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.DSPGraphModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.DirectorModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.GameCenterModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.GridModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.HotReloadModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.IMGUIModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ImageConversionModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.InputModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.InputLegacyModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.JSONSerializeModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.LocalizationModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ParticleSystemModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.PerformanceReportingModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.PhysicsModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.Physics2DModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ProfilerModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.ScreenCaptureModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SharedInternalsModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteMaskModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.StreamingModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubstanceModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TLSModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextCoreModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.TilemapModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UIModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UIElementsModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UNETModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UmbraModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityAnalyticsModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityConnectModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityTestProtocolModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VFXModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VRModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VehiclesModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.VideoModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.WindModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/mono/Managed/UnityEngine.XRModule.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Concurrent.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.NonGeneric.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Specialized.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Console.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Data.Common.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Debug.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Process.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tools.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Drawing.Primitives.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Dynamic.Runtime.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Calendars.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Extensions.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Pipes.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Expressions.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Parallel.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Queryable.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Http.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NameResolution.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NetworkInformation.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Ping.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Primitives.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Requests.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Security.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Sockets.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ObjectModel.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Extensions.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Primitives.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Reader.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.ResourceManager.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Writer.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Extensions.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Handles.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Numerics.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Claims.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Principal.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Security.SecureString.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Text.RegularExpressions.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Overlapped.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Thread.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.ThreadPool.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Timer.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.ValueTuple.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XDocument.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlDocument.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ComponentModel.Composition.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Core.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Data.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Drawing.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Net.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Numerics.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Runtime.Serialization.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ServiceModel.Web.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Transactions.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Web.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Windows.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Linq.dll"
+/reference:"C:/Program Files/unity2019/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll"
+/define:UNITY_2019_3_10
+/define:UNITY_2019_3
+/define:UNITY_2019
+/define:UNITY_5_3_OR_NEWER
+/define:UNITY_5_4_OR_NEWER
+/define:UNITY_5_5_OR_NEWER
+/define:UNITY_5_6_OR_NEWER
+/define:UNITY_2017_1_OR_NEWER
+/define:UNITY_2017_2_OR_NEWER
+/define:UNITY_2017_3_OR_NEWER
+/define:UNITY_2017_4_OR_NEWER
+/define:UNITY_2018_1_OR_NEWER
+/define:UNITY_2018_2_OR_NEWER
+/define:UNITY_2018_3_OR_NEWER
+/define:UNITY_2018_4_OR_NEWER
+/define:UNITY_2019_1_OR_NEWER
+/define:UNITY_2019_2_OR_NEWER
+/define:UNITY_2019_3_OR_NEWER
+/define:ENABLE_AR
+/define:ENABLE_AUDIO
+/define:ENABLE_CACHING
+/define:ENABLE_CLOTH
+/define:ENABLE_EVENT_QUEUE
+/define:ENABLE_MICROPHONE
+/define:ENABLE_MULTIPLE_DISPLAYS
+/define:ENABLE_PHYSICS
+/define:ENABLE_TEXTURE_STREAMING
+/define:ENABLE_UNET
+/define:ENABLE_LZMA
+/define:ENABLE_UNITYEVENTS
+/define:ENABLE_VR
+/define:ENABLE_WEBCAM
+/define:ENABLE_UNITYWEBREQUEST
+/define:ENABLE_WWW
+/define:ENABLE_CLOUD_SERVICES
+/define:ENABLE_CLOUD_SERVICES_COLLAB
+/define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+/define:ENABLE_CLOUD_SERVICES_ADS
+/define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+/define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+/define:ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING
+/define:ENABLE_CLOUD_SERVICES_PURCHASING
+/define:ENABLE_CLOUD_SERVICES_ANALYTICS
+/define:ENABLE_CLOUD_SERVICES_UNET
+/define:ENABLE_CLOUD_SERVICES_BUILD
+/define:ENABLE_CLOUD_LICENSE
+/define:ENABLE_EDITOR_HUB_LICENSE
+/define:ENABLE_WEBSOCKET_CLIENT
+/define:ENABLE_DIRECTOR_AUDIO
+/define:ENABLE_DIRECTOR_TEXTURE
+/define:ENABLE_MANAGED_JOBS
+/define:ENABLE_MANAGED_TRANSFORM_JOBS
+/define:ENABLE_MANAGED_ANIMATION_JOBS
+/define:ENABLE_MANAGED_AUDIO_JOBS
+/define:ENABLE_RUNTIME_PERMISSIONS
+/define:ENABLE_ENGINE_CODE_STRIPPING
+/define:ENABLE_ONSCREEN_KEYBOARD
+/define:INCLUDE_DYNAMIC_GI
+/define:ENABLE_MONO_BDWGC
+/define:ENABLE_SCRIPTING_GC_WBARRIERS
+/define:PLATFORM_SUPPORTS_MONO
+/define:ENABLE_VIDEO
+/define:PLATFORM_ANDROID
+/define:UNITY_ANDROID
+/define:UNITY_ANDROID_API
+/define:ENABLE_EGL
+/define:ENABLE_NETWORK
+/define:ENABLE_RUNTIME_GI
+/define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+/define:PLATFORM_SUPPORTS_ADS_ID
+/define:UNITY_CAN_SHOW_SPLASH_SCREEN
+/define:UNITY_HAS_GOOGLEVR
+/define:UNITY_HAS_TANGO
+/define:ENABLE_SPATIALTRACKING
+/define:UNITY_ASTC_ONLY_DECOMPRESS
+/define:ENABLE_UNITYADS_RUNTIME
+/define:UNITY_UNITYADS_API
+/define:ENABLE_MONO
+/define:NET_STANDARD_2_0
+/define:ENABLE_CUSTOM_RENDER_TEXTURE
+/define:ENABLE_DIRECTOR
+/define:ENABLE_LOCALIZATION
+/define:ENABLE_SPRITES
+/define:ENABLE_TERRAIN
+/define:ENABLE_TILEMAP
+/define:ENABLE_TIMELINE
+/define:ENABLE_LEGACY_INPUT_MANAGER
+/define:NATIVE_PLUGINS_LITE_VERSION
+/define:USES_ADDRESS_BOOK
+/define:USES_NETWORK_CONNECTIVITY
+/define:USES_SHARING
+/define:CSHARP_7_OR_LATER
+/define:CSHARP_7_3_OR_NEWER
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Demo\Scripts\DemoGUIWindow.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Demo\Scripts\DemoMainMenu.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Demo\Scripts\DemoSubMenu.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Scripts\Debug\DebugUtility.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Scripts\Debug\NullLogger.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Scripts\Internal\Constants.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Scripts\Internal\ProductUpdateInfo.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Scripts\Internal\UpdatePromptWindow.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Scripts\Product\AssetStoreProduct.cs"
+"Assets\Standard Assets\VoxelBusters\Common\AssetStoreProductUtility\Scripts\Product\IAssetStoreProduct.cs"
+"Assets\Standard Assets\VoxelBusters\Common\DesignPatterns\Scripts\Observer\IObserver.cs"
+"Assets\Standard Assets\VoxelBusters\Common\DesignPatterns\Scripts\Observer\ObserverPattern.cs"
+"Assets\Standard Assets\VoxelBusters\Common\DesignPatterns\Scripts\Singleton\ISingleton.cs"
+"Assets\Standard Assets\VoxelBusters\Common\DesignPatterns\Scripts\Singleton\SingletonPattern.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Automators\Script\AndroidManifest\AndroidManifestGenerator.Feature.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Automators\Script\AndroidManifest\AndroidManifestGenerator.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Automators\Script\GlobalDefines\GlobalDefinesManager.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Assets\AssetDatabaseUtils.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Component\ComponentExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\DateTime\DateTimeExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Enumeration\EnumerationExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\GameObject\GameObjectExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\GenericTypes\IDictionaryExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Generics\GenericsExtension.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\IO\IOExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\MonoBehaviour\MonoBehaviourExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\PlayerSettings\PlayerSettings.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Reflection\ReflectionExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\ScriptableObject\ISaveAssetCallback.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\ScriptableObject\ScriptableObjectUtils.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\ScriptableObject\SharedScriptableObject.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\String\StringExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Texture\TextureExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Transform\TransformExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Type\TypeExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Extensions\Scripts\Vector\VectorExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\IO\Scripts\FileOperations.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Demo\Script\JSON\JSONDemo.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Demo\Script\Plist\PlistDemo.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Scripts\JSON\Extensions\JSONParserExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Scripts\JSON\Internal\Constants\Constants.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Scripts\JSON\Internal\DataTypes\Enums\Enums.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Scripts\JSON\Internal\DataTypes\JSONString\JSONString.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Scripts\JSON\JSONReader.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Scripts\JSON\JSONUtility.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Scripts\JSON\JSONWriter.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Parser\Scripts\Plist\Plist.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Plugins\Binding\NativeBinding.Android.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Plugins\Binding\NativeBinding.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\BitConverterEx.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifBitConverter.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifEnums.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifExceptions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifExtendedProperty.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifExtensionMethods.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifFile.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifInterOperability.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifProperty.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifPropertyFactory.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifTag.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\ExifTagFactory.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\JPEGExceptions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\JPEGFile.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\JPEGMarker.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\JPEGSection.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\ThirdParty\ExifLib\MathEx.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\Base\GUIModalWindow.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\Base\GUIScrollView.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\GUIDialogs\GUIAlertDialog.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\GUIDialogs\GUIDialog.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\GUIDialogs\GUIPromptDialog.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\GUIExtensions\GUIExtensions.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\GUILayoutUtility\UnityGUILayoutUtility.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\GUIMenuSystem\GUIMainMenu.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\GUIMenuSystem\GUIMenuBase.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UI\Script\GUIMenuSystem\GUISubMenu.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\CustomProperty\EnumMask\EnumMaskFieldAttribute.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\CustomProperty\InspectorButton\Enums.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\CustomProperty\InspectorButton\InspectorButtonAttribute.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\CustomProperty\InspectorButton\InspectorButtonInfo.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\CustomProperty\OnValueChange\ExecuteOnValueChangeAttribute.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\CustomProperty\Popup\PopupAttribute.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\CustomProperty\Regex\RegexAttribute.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\Invoke\EditorUtils.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\PromptWindow\PromptWindow.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\UnityEditor\Scripts\Scheduler\EditorScheduler.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Demo\Scripts\DownloadTextureDemo.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\Request\Base\Request.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\Request\Base\WebRequest.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\Request\FileDownload\DownloadAsset.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\Request\FileDownload\DownloadAssetBundle.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\Request\FileDownload\DownloadTexture.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\Request\GET\GETRequest.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\Request\POST\POSTRequest.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\Response\WebResponse.cs"
+"Assets\Standard Assets\VoxelBusters\Common\Utility\Web\Scripts\URL\URL.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\Binding\Android\SoomlaGrowServiceAndroid.Native.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\Binding\Android\SoomlaGrowServiceAndroid.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\Binding\Base\SoomlaGrowService.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\Binding\Base\SoomlaGrowService.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\Binding\UnityEditor\SoomlaGrowServiceEditor.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\Binding\iOS\SoomlaGrowServiceIOS.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\DataTypes\Enums.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\Settings\SoomlaGrowServiceSettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\AddonServices\SoomlaGrow\Utility\SoomlaGrowServiceUtility.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\Binding\Android\AddressBookAndroid.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\Binding\Android\AddressBookAndroid.Native.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\Binding\Android\AddressBookAndroid.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\Binding\Base\AddressBook.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\Binding\Base\AddressBook.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\Binding\UnityEditor\AddressBookEditor.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\Binding\iOS\AddressBookIOS.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\Binding\iOS\AddressBookIOS.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\DataTypes\ContactInfo\AddressBookContact.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\DataTypes\ContactInfo\AndroidAddressBookContact.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\DataTypes\ContactInfo\EditorAddressBookContact.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\DataTypes\ContactInfo\iOSAddressBookContact.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\AddressBook\DataTypes\Enums\Enums.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Binding\Android\NetworkConnectivityAndroid.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Binding\Android\NetworkConnectivityAndroid.Native.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Binding\Android\NetworkConnectivityAndroid.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Binding\Base\NetworkConnectivity.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Binding\Base\NetworkConnectivity.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Binding\UnityEditor\NetworkConnectivityEditor.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Binding\iOS\NetworkConnectivityIOS.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Settings\NetworkConnectivitySettings.Android.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\NetworkConnectivity\Settings\NetworkConnectivitySettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.Mail.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.Mail.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.Messaging.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.Messaging.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.Native.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.Social.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.WhatsApp.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.WhatsApp.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Android\SharingAndroid.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.Mail.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.Mail.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.Messaging.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.Messaging.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.Social.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.Social.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.WhatsApp.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.WhatsApp.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\Base\Sharing.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\UnityEditor\SharingEditor.Mail.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\UnityEditor\SharingEditor.Messaging.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\UnityEditor\SharingEditor.Social.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\UnityEditor\SharingEditor.WhatsApp.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\UnityEditor\SharingEditor.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\iOS\SharingIOS.Mail.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\iOS\SharingIOS.Mail.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\iOS\SharingIOS.Messaging.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\iOS\SharingIOS.Messaging.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\iOS\SharingIOS.Social.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\iOS\SharingIOS.Social.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\iOS\SharingIOS.WhatsApp.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Binding\iOS\SharingIOS.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\Composer\Mail\MailShareComposer.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\Composer\Message\MessageShareComposer.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\Composer\SocialNetwork\FBShareComposer.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\Composer\SocialNetwork\SocialShareComposerBase.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\Composer\SocialNetwork\TwitterShareComposer.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\Composer\WhatsApp\WhatsAppComposer.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\Enums\Enums.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\Interface\IShareView.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\ShareSheet\ShareSheet.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\DataTypes\ShareSheet\SocialShareSheet.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Sharing\Utility\ShareImageUtility.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Android\UIAndroid.AlertDialog.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Android\UIAndroid.AlertDialog.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Android\UIAndroid.Native.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Android\UIAndroid.PromptDialog.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Android\UIAndroid.PromptDialog.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Android\UIAndroid.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Base\UI.AlertDialog.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Base\UI.AlertDialog.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Base\UI.PromptDialog.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Base\UI.PromptDialog.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\Base\UI.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\UnityEditor\UIEditor.AlertDialog.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\UnityEditor\UIEditor.AlertDialog.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\UnityEditor\UIEditor.PromptDialog.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\UnityEditor\UIEditor.PromptDialog.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\UnityEditor\UIEditor.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\iOS\UIIOS.AlertDialog.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\iOS\UIIOS.AlertDialog.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\iOS\UIIOS.PromptDialog.Events.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\iOS\UIIOS.PromptDialog.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\Binding\iOS\UIIOS.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\UI\DataTypes\Enums\Enums.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\IRateMyAppDelegate.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\Internal\IRateMyAppEventResponder.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\Internal\IRateMyAppKeysCollection.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\Internal\IRateMyAppOperationHandler.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\Internal\IRateMyAppViewController.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\Internal\RateMyAppGenericController.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\Internal\RateMyAppGenericStoreBase.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\Internal\RateMyAppIOSStoreController.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\RateMyApp.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\DataTypes\RateMyApp\RateMyAppSettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\Platform\IUtilityPlatform.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\Platform\UtilityAndroid.Native.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\Platform\UtilityAndroid.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\Platform\UtilityIOS.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\Platform\UtilityUnsupported.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\Settings\UtilitySettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Features\Utility\Source\Utility.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Helpers\PlatformBinding\PlatformBindingHelper.Android.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Plugins\Helpers\PlatformBinding\PlatformBindingHelper.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\AddonServices\OneSignal\Settings\OneSignalServiceSettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\AddonServices\OneSignal\Utility\OneSignalServiceUtility.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Internal\Attributes\NotifyNPSettingsOnValueChangeAttribute.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Internal\Misc\Constants\Constants.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Internal\Misc\Object\InstanceIDGenerator.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Internal\Misc\Object\NPObject.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Internal\Misc\Object\NPObjectManager.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Internal\Simulators\AddressBook\EditorAddressBook.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Internal\Simulators\UI\EditorUIHandler.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Internal\Utility\NPEditorUtility.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\Constants\MIMEType.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\ID\Enums.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\ID\IDContainer.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\ID\IIdentifierContainer.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\ID\IIdentifierContainerUtils.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\ID\PlatformValue.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\PlatformValueHelper.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\Utils\AndroidPluginUtility.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Misc\Utils\NPAndroidManifestGenerator.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\NP\NPAssetManager.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\NP\NPBinding.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\NP\NPEditorManager.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\NP\NPSettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Settings\AddonServices\AddonServicesSettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Settings\Application\ApplicationSettings.AddonServices.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Settings\Application\ApplicationSettings.AndroidSettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Settings\Application\ApplicationSettings.Features.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Settings\Application\ApplicationSettings.cs"
+"Assets\Standard Assets\VoxelBusters\NativePlugins\Scripts\Settings\Application\ApplicationSettings.iOSSettings.cs"
+/define:NATIVE_PLUGINS_LITE_VERSION

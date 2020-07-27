@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:1-51:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:1-51:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:1-51:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:1-51:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:1-51:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:1-51:12
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:1-51:12
+	package
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:70-116
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:141-166
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:3:117-140
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml
+uses-sdk
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:4:3-72
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:4:3-72
+INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:4:3-72
+	android:targetSdkVersion
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:4:40-69
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml
+		INJECTED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:4:13-39
+application
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:5:3-18:17
+activity#com.voxelbusters.nativeplugins.features.sharing.SharingActivity
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:7:5-141
+	android:theme
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:7:94-138
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:7:15-93
+activity#com.voxelbusters.nativeplugins.features.medialibrary.CameraActivity
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:9:5-145
+	android:theme
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:9:98-142
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:9:15-97
+activity#com.voxelbusters.nativeplugins.features.ui.UiActivity
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:11:5-131
+	android:theme
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:11:84-128
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:11:15-83
+activity#com.voxelbusters.nativeplugins.helpers.PermissionRequestActivity
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:13:5-142
+	android:theme
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:13:95-139
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:13:15-94
+provider#com.voxelbusters.nativeplugins.extensions.FileProviderExtended
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:15:5-17:16
+	android:grantUriPermissions
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:15:180-214
+	android:authorities
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:15:93-154
+	android:exported
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:15:155-179
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:15:15-92
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:16:7-120
+	android:resource
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:16:69-117
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:16:18-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:21:3-70
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:21:20-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:23:3-77
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:23:20-74
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:25:3-84
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:25:20-81
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:26:3-85
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:26:20-82
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:28:3-79
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:28:20-76
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:29:3-81
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:29:20-78
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:31:3-86
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:31:20-83
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:32:3-90
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:32:20-87
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:34:3-82
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:34:20-79
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:36:3-81
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:36:20-78
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:38:3-89
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:38:20-86
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:39:3-90
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:39:20-87
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:40:3-91
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:40:20-88
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:42:3-71
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:42:20-68
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:44:3-80
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:44:20-77
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:45:3-81
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:45:20-78
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:47:3-86
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:47:20-83
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:48:3-87
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:48:20-84
+uses-permission#android.permission.INTERNET
+ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:50:3-65
+	android:name
+		ADDED from D:\FreelanceUnityProject\UnityNativeAdamProject\Unity1NativeAdam\Temp\gradleOut\unityLibrary\native_plugins_lib\AndroidManifest.xml:50:20-62

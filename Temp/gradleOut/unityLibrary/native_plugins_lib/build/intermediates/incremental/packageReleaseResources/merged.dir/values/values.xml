@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="colorAccent" type="color">#f2fe71</item>
+    <item name="np_semi_transparent" type="color">#AA000000</item>
+    <item name="np_topbar_color" type="color">#FF555555</item>
+    <item name="np_transparent" type="color">#00000000</item>
+    <item name="np_webview_override_loading_color" type="color">#00000000</item>
+    <string name="Loading">Loading, please wait.</string>
+    <string name="app_name">Native Plugins</string>
+    <string name="com.crashlytics.android.build_id" translatable="false">0000000</string>
+    <string name="gameservices_app_misconfigured">App misconfigured</string>
+    <string name="gameservices_license_failed">License failed</string>
+    <string name="gameservices_sign_in_failed">Sign in failed</string>
+    <string name="np_toolbar_back">Back</string>
+    <string name="np_toolbar_done">Done</string>
+    <string name="np_toolbar_forward">Forward</string>
+    <string name="np_toolbar_reload">Reload</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="FloatingActivityTheme" parent="AppTheme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@color/np_transparent</item>
+    <item name="android:windowNoTitle">true</item>
+    
+  
+    <!--<item name="android:alertDialogStyle">@style/YOU_CUSTOM_DIALOG_THEME</item> //TODO-->
+    
+  	</style>
+</resources>
